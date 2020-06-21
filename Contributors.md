@@ -23,6 +23,7 @@
 - [Rodrigo Santos](https://github.com/rdgSantos-js)
 - [Nola Smith] (https://github.com/SmithNola)
 - My name is Slim Shady
+- [Lauren Stephenson](https://github.com/CompSciLauren)
 -Sai Jayakeerthi
 - [zain ahmed] (https://github.com/zainbinfurqan)
 -Chirag Sharma
